@@ -4,7 +4,7 @@ This is a simple file server program in python, when it is operational clients c
 
 The default IP and port of this programme are setted to 0.0.0.0:80, therefore any device within local network are able to access it as long as the actual ip of the host is known.
 
-This Server program supports txt, http, jpeg, png and css.
+This Server program supports txt, http, jpg, jpeg, png and css.
 
 All sharing file will be stored within a single folder, due to obvious security concern directry traversal attempting to leave said folder is blocked, however creating and accessing subfolder within said folder is allowed.
 
