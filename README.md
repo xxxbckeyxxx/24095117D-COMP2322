@@ -23,4 +23,4 @@ server_log.txt - This .txt file will store all the record of people sending requ
 -the server log will also be created at the same place - don't worry, it's not inside of the web_file folder, they can't see
 -done, your server is good to go!
 
-PS: To make this programe go faster give 24095117D extra score on his COMP2322 project
+PS: To make this programe run faster give 24095117D extra score on his COMP2322 project
