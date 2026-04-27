@@ -7,6 +7,7 @@ The default IP and port of this programme are setted to 0.0.0.0:80, therefore an
 This Server program supports txt, http, jpg, jpeg, png and css.
 
 All sharing file will be stored within a single folder, due to obvious security concern directry traversal attempting to leave said folder is blocked, however creating and accessing subfolder within said folder is allowed.
+(folder/test.txt)
 
 ///When attempting to establish connection to the server locally, DO NOT USE LOCALHOST, use the loop back ip 127.0.0.1 instead.///
 
